@@ -1,5 +1,4 @@
-![logo]([https://github.com/NonaHelmi/nhelmi/blob/main/ai.jpg](https://github.com/NonaHelmi/NonaHelmi/blob/main/ai.jpg))
-<h1 align="center">Hi 👋, I'm nona helmi</h1>
+![logo](https://github.com/NonaHelmi/NonaHelmi/blob/main/ai.jpg)
 <h3 align="center">University professor from Iran</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nonahelmi&label=Profile%20views&color=0e75b6&style=flat" alt="nonahelmi" /> </p>
