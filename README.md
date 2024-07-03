@@ -1,4 +1,4 @@
-![logo](https://github.com/NonaHelmi/nhelmi/blob/main/ai.jpg)
+![logo]([https://github.com/NonaHelmi/nhelmi/blob/main/ai.jpg](https://github.com/NonaHelmi/NonaHelmi/blob/main/ai.jpg))
 <h1 align="center">Hi 👋, I'm nona helmi</h1>
 <h3 align="center">University professor from Iran</h3>
 
